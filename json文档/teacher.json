@@ -1,0 +1,36 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "tname": "小一",
+      "sex": "女",
+      "password": "******",
+      "age": 34,
+      "college": "11"
+    },
+    {
+      "id": 2,
+      "tname": "小二",
+      "sex": "男",
+      "password": "******",
+      "age": 36,
+      "college": "22"
+    },
+    {
+      "id": 3,
+      "tname": "小三",
+      "sex": "女",
+      "password": "******",
+      "age": 55,
+      "college": "33"
+    },
+    {
+      "id": 4,
+      "tname": "小四",
+      "sex": "男",
+      "password": "******",
+      "age": 45,
+      "college": "44"
+    }
+  ]
+}

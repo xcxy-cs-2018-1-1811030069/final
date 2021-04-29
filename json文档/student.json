@@ -1,0 +1,36 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "sname": "一一",
+      "sex": "女",
+      "age": 18,
+      "password": "******",
+      "cardNo": 11
+    },
+    {
+      "id": 2,
+      "sname": "二二",
+      "sex": "女",
+      "age": 19,
+      "password": "******",
+      "cardNo": 22
+    },
+    {
+      "id": 3,
+      "sname": "三三",
+      "sex": "男",
+      "age": 18,
+      "password": "******",
+      "cardNo": 33
+    },
+    {
+      "id": 4,
+      "sname": "四四",
+      "sex": "男",
+      "age": 17,
+      "password": "******",
+      "cardNo": 44
+    }
+  ]
+}

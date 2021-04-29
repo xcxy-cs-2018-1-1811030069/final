@@ -1,0 +1,22 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "name": "XXX",
+      "answerid": 1,
+      "score": "60"
+    },
+    {
+      "id": 2,
+      "name": "XXX",
+      "answerid": 2,
+      "score": "69"
+    },
+    {
+      "id": 3,
+      "name": "XXX",
+      "answerid": 3,
+      "score": "88"
+    }
+  ]
+}

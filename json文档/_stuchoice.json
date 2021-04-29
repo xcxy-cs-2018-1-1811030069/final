@@ -1,0 +1,24 @@
+{
+  "RECORDS": [
+    {
+      "sname": "三三",
+      "tname": "小二",
+      "classname": "数学"
+    },
+    {
+      "sname": "一一",
+      "tname": "小一",
+      "classname": "英语"
+    },
+    {
+      "sname": "二二",
+      "tname": "小一",
+      "classname": "英语"
+    },
+    {
+      "sname": "四四",
+      "tname": "小三",
+      "classname": "语文"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "name": "一一",
+      "password": "******",
+      "roleid": 2
+    },
+    {
+      "id": 2,
+      "name": "小一",
+      "password": "******",
+      "roleid": 1
+    },
+    {
+      "id": 3,
+      "name": "小二",
+      "password": "******",
+      "roleid": 1
+    },
+    {
+      "id": 4,
+      "name": "大一",
+      "password": "******",
+      "roleid": 3
+    },
+    {
+      "id": 5,
+      "name": "二二",
+      "password": "******",
+      "roleid": 2
+    }
+  ]
+}

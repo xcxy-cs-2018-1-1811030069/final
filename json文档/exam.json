@@ -1,0 +1,25 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "tname": "语文测试",
+      "stucid": 1,
+      "questionid": 2,
+      "time": "27/4/2021 08:45:06"
+    },
+    {
+      "id": 2,
+      "tname": "英语测试",
+      "stucid": 2,
+      "questionid": 2,
+      "time": "27/4/2021 08:45:11"
+    },
+    {
+      "id": 3,
+      "tname": "数学测试",
+      "stucid": 3,
+      "questionid": 1,
+      "time": "27/4/2021 08:45:37"
+    }
+  ]
+}

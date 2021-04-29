@@ -1,0 +1,28 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "studentid": 1,
+      "teacid": 1,
+      "time": "27/4/2021 08:39:40"
+    },
+    {
+      "id": 2,
+      "studentid": 2,
+      "teacid": 1,
+      "time": "27/4/2021 08:38:34"
+    },
+    {
+      "id": 3,
+      "studentid": 3,
+      "teacid": 2,
+      "time": "27/4/2021 08:40:00"
+    },
+    {
+      "id": 4,
+      "studentid": 4,
+      "teacid": 3,
+      "time": "27/4/2021 08:40:13"
+    }
+  ]
+}
